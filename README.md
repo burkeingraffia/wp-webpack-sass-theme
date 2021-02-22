@@ -2,7 +2,7 @@
 
 A starter for building WordPress themes with a SASS and JS compiler
 
-Extract ZIP into your `wp-content/themes/` folder in your local development environment. I suggest using MAMP and developing locally.
+Add this repo into your `wp-content/themes/mythemename` folder in your local development environment. I suggest using MAMP and developing locally.
 
 In terminal, type:
 
