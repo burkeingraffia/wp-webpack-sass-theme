@@ -6,7 +6,7 @@ Add this repo into your `wp-content/themes/mythemename` folder in your local dev
 
 In terminal, type:
 
-`cd wp-content/themes/yourtheme` then `npm install`
+`cd wp-content/themes/yourthemename` then `npm install`
 
 It will take some time for the node-modules directory to be added to you theme with all of the necessary npm packages.
 
